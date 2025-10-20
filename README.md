@@ -7,8 +7,8 @@ It showcases products dynamically with a smooth shopping experience and modern d
 
 ## 🚀 Live Demo
 
-👉 [View on Vercel](https://your-vercel-link.vercel.app)  
-(Replace this with your actual Vercel deployment link)
+[[👉 [View on Vercel](https://your-vercel-link.vercel.app)  
+(https://gadget-mart-three.vercel.app/)
 
 ---
 
